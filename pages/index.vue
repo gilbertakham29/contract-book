@@ -495,7 +495,3 @@ onMounted(() => {
     initFlowbite();
 })
 </script>
-
-<style scoped>
-
-</style>
